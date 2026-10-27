@@ -1,0 +1,48 @@
+Create a Person class with name and age properties. Then create an object of this class.
+
+ Create a class Rectangle with properties width and height, and a method to calculate area.
+
+Create a class Car with a method startEngine() that prints "Engine started".
+
+Define a Book class with a constructor that accepts title and author, and create two objects of it.
+
+Create a class Rectangle with properties width and height, and a method to calculate area.
+
+Write a class Student with properties rollNo, name, and a method display() to show details.
+
+Write a class Employee where the constructor takes name and salary, and a method showSalary().
+
+Create a class Laptop with a constructor and a method to show specs passed during object creation.
+
+Add a default value to a parameter in a class constructor (e.g., set country = 'India').
+
+Create a class Circle and use a constructor to accept radius, and add a method to calculate area.
+
+Create a base class Animal with a method makeSound() and a child class Dog that overrides it.
+
+Create a class Vehicle and a subclass Bike that inherits Vehicle and adds a method wheelType().
+
+Write a class Person and a subclass Teacher that adds subject property and a method teach().
+
+Create a class Shape with method draw(), and subclasses Circle and Square that extend it.
+
+Show how to use super() to call the parent class constructor from the child class.
+
+
+
+
+
+
+1.Create a class Student with attributes name and marks, and a method to display details.
+2. Create a class BankAccount:
+	•	Deposit money
+	•	Withdraw money
+	•	Display balance
+3.	Create a class Person with name and age.
+Create a child class Student with roll number.
+4.	 Create a class Vehicle:
+	•	Method: start()
+Create child class Car and override/start method.
+5. Method overriding:
+	•	Create class Bird with method fly()
+	•	Override in Sparrow and Ostrich

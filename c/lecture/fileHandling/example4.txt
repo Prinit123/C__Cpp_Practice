@@ -1,0 +1,7 @@
+welcome to kict
+
+
+
+The Bug: Uninitialized Index
+In C, variables are not automatically set to zero.
+int index; currently contains a random "garbage" value from your computer's memory. When you try to access data[index], the program looks at a random memory location and crashes.
